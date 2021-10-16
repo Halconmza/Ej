@@ -1,1 +1,3 @@
 Este es el ej 1 de la guia de GIT
+
+Ahora modificamos el txt
